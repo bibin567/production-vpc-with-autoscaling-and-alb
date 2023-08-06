@@ -1,7 +1,5 @@
 # production-vpc-with-autoscaling-and-alb
 
-# Terraform Infrastructure Documentation
-
 ## 1. Introduction
 This document provides an overview and details of the Terraform code used to create a production environment in AWS. The infrastructure is designed to host servers with high resiliency, deployed across two Availability Zones (AZs). Key components include a Virtual Private Cloud (VPC), private subnets, Application Load Balancer (ALB), Auto Scaling Group (ASG), and NAT Gateways.
 
